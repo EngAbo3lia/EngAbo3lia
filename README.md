@@ -59,6 +59,30 @@ XML          2 mins          ░░░░░░░░░░░░░░░░░
 </p>
 <br>
 
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+[![Ahmed Aboalia Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
 
+### Certification 
+      • AWS Certified Solution Architect - Associate
+      • Azure Certified DevOps Engineer Expert – (AZ-400) 
+      • Azure Certified Developer Associate – (AZ-204)
+      • Red Hat Certified System Administrator (RHCSA)
+      • Red Hat Certified Engineer (RHCE)
+      • Red Hat OpenStack(CL210)
+      • Net backup Version 8.0 (VERITAS)
 
+<br/>
+
+### Support or Contact
+
+👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ [Email](nakul.bhati@yahoo.in)
+
+####
+
+<a href="https://github.com/nakulbhati" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/fb.png" alt="Facebook" width="30"></a>
+<a href="https://twitter.com/local__tourist" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/tw.png" alt="Twitter" width="30"></a>
+<a href="https://www.instagram.com/local__tourist/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/ig.png" alt="Instagram" width="30"></a>
+<a href="https://www.linkedin.com/in/kunwar-nakul-singh-bhati/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://github.com/nakulbhati" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/git.png" alt="GitHub" width="30"></a>
+<a href="https://github.com/nakulbhati" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/www.png" alt="Website" width="30"></a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nakulbhati&color=brightgreen" alt="nakulbhati" /> </p>

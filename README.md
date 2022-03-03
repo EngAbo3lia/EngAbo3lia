@@ -10,16 +10,29 @@
       
 
 
-hi, i'm [Ahmed Aboalia](https://Aboalia.com/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Ahmed Aboalia](https://Aboalia.com/), a passionate self-taught .NET developer and a freelance software engineer from Egypt. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-
+### Courses 
+      • CS50 - (CS50x)
+<br/>
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/EngAbo3lia/EngAbo3lia/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:Ahmed.Aboalia2015@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
+### Support or Contact
+
+👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ [Email](nakul.bhati@yahoo.in)
+
+####
+  <a href="https://Facebook.com/Eng.Abo3lia" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/fb.png" alt="Facebook" width="30"></a>
+<a href="https://twitter.com/engAbo3lia" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/tw.png" alt="Twitter" width="30"></a>
+<a href="https://www.instagram.com/engabo3lia/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/ig.png" alt="Instagram" width="30"></a>
+<a href="https://www.linkedin.com/in/engabo3lia/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://github.com/engabo3lia" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/git.png" alt="GitHub" width="30"></a>
+<a href="https://engabo3lia.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/www.png" alt="Website" width="30"></a>
+
+  
 **languages and tools:**  
 
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"></code>
@@ -30,10 +43,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-C#       11 hrs 47 mins  ███████████████████████░░   92.48 %
+C#       38 hrs 47 mins  ███████████████████████░░   92.48 %
 SQL      23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
 HTML     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-HTML     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+B1SDK    15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 ```
 
 <!--END_SECTION:waka-->
@@ -52,29 +65,5 @@ HTML     17 mins         ▓░░░░░░░░░░░░░░░░░�
 <br>
 
 [![Ahmed Aboalia Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Ahmed%20Aboalia%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://Aboalia.com)
-
-### Certification 
-      • AWS Certified Solution Architect - Associate
-      • Azure Certified DevOps Engineer Expert – (AZ-400) 
-      • Azure Certified Developer Associate – (AZ-204)
-      • Red Hat Certified System Administrator (RHCSA)
-      • Red Hat Certified Engineer (RHCE)
-      • Red Hat OpenStack(CL210)
-      • Net backup Version 8.0 (VERITAS)
-
-<br/>
-
-### Support or Contact
-
-👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ [Email](nakul.bhati@yahoo.in)
-
-####
-
-<a href="https://github.com/nakulbhati" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/fb.png" alt="Facebook" width="30"></a>
-<a href="https://twitter.com/local__tourist" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/tw.png" alt="Twitter" width="30"></a>
-<a href="https://www.instagram.com/local__tourist/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/ig.png" alt="Instagram" width="30"></a>
-<a href="https://www.linkedin.com/in/kunwar-nakul-singh-bhati/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/nakulbhati" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/git.png" alt="GitHub" width="30"></a>
-<a href="https://github.com/nakulbhati" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/www.png" alt="Website" width="30"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nakulbhati&color=brightgreen" alt="nakulbhati" /> </p>

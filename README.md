@@ -44,9 +44,9 @@ hi, i'm [Ahmed Aboalia](https://Aboalia.com/), a passionate self-taught .NET dev
 
 ```text
 C#       38 hrs 47 mins  ███████████████████████░░   92.48 %
-SQL      23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+SQL      5  hrs          ███░░░░░░░░░░░░░░░░░░░░░░   09.07 %
 HTML     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-B1SDK    15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+B1SDK    33 hrs          ██████████████████░░░░░░░   85.33 %
 ```
 
 <!--END_SECTION:waka-->

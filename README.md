@@ -25,19 +25,19 @@ hi, i'm [Ahmed Aboalia](https://Aboalia.com/), a passionate self-taught .NET dev
 👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ [Email](Ahmed.Aboalia2015@gmail.com)
 
 ####
-  <a href="https://Facebook.com/Eng.Abo3lia" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/fb.png" alt="Facebook" width="30"></a>
-<a href="https://twitter.com/engAbo3lia" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/tw.png" alt="Twitter" width="30"></a>
-<a href="https://www.instagram.com/engabo3lia/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/ig.png" alt="Instagram" width="30"></a>
-<a href="https://www.linkedin.com/in/engabo3lia/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/engabo3lia" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/git.png" alt="GitHub" width="30"></a>
-<a href="https://engabo3lia.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/www.png" alt="Website" width="30"></a>
+  <a href="https://Facebook.com/Eng.Abo3lia" target="_blank"><img src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/fb.png" alt="Facebook" width="30"></a>
+<a href="https://twitter.com/engAbo3lia" target="_blank"><img src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/tw.png" alt="Twitter" width="30"></a>
+<a href="https://www.instagram.com/engabo3lia/" target="_blank"><img src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/ig.png" alt="Instagram" width="30"></a>
+<a href="https://www.linkedin.com/in/engabo3lia/" target="_blank"><img src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://github.com/engabo3lia" target="_blank"><img src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/git.png" alt="GitHub" width="30"></a>
+<a href="https://engabo3lia.github.io/" target="_blank"><img src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/www.png" alt="Website" width="30"></a>
 
   
 **languages and tools:**  
 
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/CSharp.png"></code>
+<code><img height="20" src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/cpp.png"></code>
+<code><img height="20" src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/git.png"></code>
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
@@ -66,4 +66,4 @@ B1SDK    33 hrs          ██████████████████�
 
 [![Ahmed Aboalia Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Ahmed%20Aboalia%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://Aboalia.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nakulbhati&color=brightgreen" alt="nakulbhati" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nakulbhati&color=brightgreen" alt="Aboalia" /> </p>

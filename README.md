@@ -55,8 +55,16 @@ Are you looking for freelance work? Send me an [email](mailto:Ahmed.Aboalia2015@
 <a href="https://engabo3lia.github.io/" target="_blank"><img src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/www.png" alt="Website" width="30"></a>
 -->
  ------------------------------------------------------- 
+<!--### Blogs posts
 
-<!--## My Statistics
+- [How-to get notifications when your mailbox is opened](https://blakeniemyjski.com/blog/how-to-get-notifications-when-your-mailbox-is-opened/)
+- [Disturbing trends in smart home products and services](https://blakeniemyjski.com/blog/disturbing-trends-in-smart-home-products-and-services/)
+- [Securing smart home devices with ESPHome and Home Assistant](https://blakeniemyjski.com/blog/securing-smart-home-devices-with-esphome-and-home-assistant/)
+- [Building and maintaining a smart home presentation](https://blakeniemyjski.com/blog/building-and-maintaining-a-smart-home-presentation/)
+- [Speaking at North Dallas Developers](https://blakeniemyjski.com/blog/speaking-at-north-dallas-developers/)
+
+
+## My Statistics
 
 <br/>
 <p align="left">
@@ -71,4 +79,7 @@ Are you looking for freelance work? Send me an [email](mailto:Ahmed.Aboalia2015@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nakulbhati&color=brightgreen" alt="Aboalia" /> </p>
 https://github.com/antonkomarev/github-profile-views-counter
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EngAbo3lia&show_icons=true" alt="Aboalia" /></p>
 -->
+

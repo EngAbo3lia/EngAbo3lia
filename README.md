@@ -21,8 +21,9 @@ hi, i'm [Ahmed Aboalia](https://Aboalia.com/), a passionate self-taught .NET dev
 <br/>
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/EngAbo3lia/EngAbo3lia/master/code.gif?raw=true" width="500" height="320" />
   
-
+<!--
 📊 **this week i spent my time on:**
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -33,11 +34,12 @@ B1SDK    33 hrs          ██████████████████�
 ```
 <!--END_SECTION:waka-->
 
- **languages and tools:**  
+### Languages and tools: 
 
 <code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg"></code>
 <code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg"></code>
 <code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"></code>
+###
 
 ### Support or Contact
 
@@ -52,9 +54,9 @@ Are you looking for freelance work? Send me an [email](mailto:Ahmed.Aboalia2015@
 <a href="https://github.com/engabo3lia" target="_blank"><img src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/git.png" alt="GitHub" width="30"></a>
 <a href="https://engabo3lia.github.io/" target="_blank"><img src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/www.png" alt="Website" width="30"></a>
 -->
-  
-<!--
-## My Statistics
+ ------------------------------------------------------- 
+
+<!--## My Statistics
 
 <br/>
 <p align="left">
@@ -67,6 +69,6 @@ Are you looking for freelance work? Send me an [email](mailto:Ahmed.Aboalia2015@
 
 [![Ahmed Aboalia Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Ahmed%20Aboalia%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://Aboalia.com)
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=nakulbhati&color=brightgreen" alt="Aboalia" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nakulbhati&color=brightgreen" alt="Aboalia" /> </p>
 https://github.com/antonkomarev/github-profile-views-counter
 -->

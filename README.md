@@ -21,6 +21,24 @@ hi, i'm [Ahmed Aboalia](https://Aboalia.com/), a passionate self-taught .NET dev
 <br/>
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/EngAbo3lia/EngAbo3lia/master/code.gif?raw=true" width="500" height="320" />
   
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```text
+C#       38 hrs 47 mins  ███████████████████████░░   92.48 %
+SQL      5  hrs          ███░░░░░░░░░░░░░░░░░░░░░░   09.07 %
+HTML     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+B1SDK    33 hrs          ██████████████████░░░░░░░   85.33 %
+```
+<!--END_SECTION:waka-->
+
+ **languages and tools:**  
+
+<code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg"></code>
+<code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg"></code>
+<code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"></code>
+
 ### Support or Contact
 
 - 👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️
@@ -37,26 +55,6 @@ hi, i'm [Ahmed Aboalia](https://Aboalia.com/), a passionate self-taught .NET dev
 -->
   
 
-**languages and tools:**  
-
-<code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg"></code>
-<code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg"></code>
-<code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"></code>
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-C#       38 hrs 47 mins  ███████████████████████░░   92.48 %
-SQL      5  hrs          ███░░░░░░░░░░░░░░░░░░░░░░   09.07 %
-HTML     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-B1SDK    33 hrs          ██████████████████░░░░░░░   85.33 %
-```
-
-<!--END_SECTION:waka-->
-
-
-
 ## My Statistics
 
 <br/>
@@ -70,4 +68,6 @@ B1SDK    33 hrs          ██████████████████�
 
 [![Ahmed Aboalia Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Ahmed%20Aboalia%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://Aboalia.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nakulbhati&color=brightgreen" alt="Aboalia" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=nakulbhati&color=brightgreen" alt="Aboalia" /> </p>
+https://github.com/antonkomarev/github-profile-views-counter
+-->

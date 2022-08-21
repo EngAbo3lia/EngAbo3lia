@@ -2,11 +2,11 @@
   <b> Ahmed Aboalia <p align="center">
         
  
-<a href="https://twitter.com/engAbo3lia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="apoorv__tyagi" height="20" width="20" /></a>&nbsp;
-    <a href="https://Facebook.com/eng.Abo3lia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="20" width="20" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/engabo3lia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" /></a>&nbsp;
-     <a href="https://hashnode.com/@engAbo3lia" target="blank"><img align="center" src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/www.png" alt="apoorvtyagi" height="20" width="20" /></a>
-<a href="https://hashnode.com/@engAbo3lia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="apoorvtyagi" height="20" width="20" /></a>
+<a href="https://twitter.com/engAbo3lia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Aboalia" height="20" width="20" /></a>&nbsp;
+    <a href="https://Facebook.com/eng.Abo3lia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Aboalia" height="20" width="20" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/engabo3lia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Aboalia" height="20" width="20" /></a>&nbsp;
+     <a href="https://hashnode.com/@engAbo3lia" target="blank"><img align="center" src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/web.png" alt="apoorvtyagi" height="20" width="20" /></a>
+<a href="https://hashnode.com/@engAbo3lia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="Aboalia" height="20" width="20" /></a>
 <a href="https://www.buymeacoffee.com/engAbo3lia"><img align="center" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
    
         

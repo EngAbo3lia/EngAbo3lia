@@ -1,10 +1,14 @@
 <h1 align="center">
   <b> Ahmed Aboalia <p align="center">
         
-<a href="https://twitter.com/engAbo3lia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="20" width="20" /></a>&nbsp;
+ 
+<a href="https://twitter.com/engAbo3lia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="apoorv__tyagi" height="20" width="20" /></a>&nbsp;
+    <a href="https://Facebook.com/eng.Abo3lia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="20" width="20" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/engabo3lia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" /></a>&nbsp;
+     <a href="https://hashnode.com/@engAbo3lia" target="blank"><img align="center" src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/www.png" alt="apoorvtyagi" height="20" width="20" /></a>
 <a href="https://hashnode.com/@engAbo3lia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="apoorvtyagi" height="20" width="20" /></a>
 <a href="https://www.buymeacoffee.com/engAbo3lia"><img align="center" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
+   
         
 </p></h1><br />
       
@@ -17,27 +21,27 @@ hi, i'm [Ahmed Aboalia](https://Aboalia.com/), a passionate self-taught .NET dev
 <br/>
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/EngAbo3lia/EngAbo3lia/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:Ahmed.Aboalia2015@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
-
 ### Support or Contact
 
-👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ [Email](Ahmed.Aboalia2015@gmail.com)
-
+- 👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️
+- 💼 any freelance work? do reach, [email](mailto:Ahmed.Aboalia2015@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
+  
 ####
-  <a href="https://Facebook.com/Eng.Abo3lia" target="_blank"><img src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/fb.png" alt="Facebook" width="30"></a>
+  <!-- <a href="https://Facebook.com/Eng.Abo3lia" target="_blank"><img src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/fb.png" alt="Facebook" width="30"></a>
 <a href="https://twitter.com/engAbo3lia" target="_blank"><img src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/tw.png" alt="Twitter" width="30"></a>
 <a href="https://www.instagram.com/engabo3lia/" target="_blank"><img src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/ig.png" alt="Instagram" width="30"></a>
 <a href="https://www.linkedin.com/in/engabo3lia/" target="_blank"><img src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://github.com/engabo3lia" target="_blank"><img src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/git.png" alt="GitHub" width="30"></a>
 <a href="https://engabo3lia.github.io/" target="_blank"><img src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/www.png" alt="Website" width="30"></a>
-
+-->
   
+
 **languages and tools:**  
 
-<code><img height="20" src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/CSharp.png"></code>
-<code><img height="20" src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/cpp.png"></code>
-<code><img height="20" src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/git.png"></code>
+<code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg"></code>
+<code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg"></code>
+<code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"></code>
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->

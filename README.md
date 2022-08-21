@@ -35,7 +35,7 @@ hi, i'm [Ahmed Aboalia](https://Aboalia.com/), a passionate self-taught .NET dev
   
 **languages and tools:**  
 
-<code><img height="40" src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/CSharp.png"></code>
+<code><img height="20" src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/CSharp.png"></code>
 <code><img height="20" src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/cpp.png"></code>
 <code><img height="20" src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/git.png"></code>
 

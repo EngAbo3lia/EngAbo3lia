@@ -41,9 +41,8 @@ B1SDK    33 hrs          ██████████████████�
 
 ### Support or Contact
 
-- 👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️
-- 💼 any freelance work? do reach, [email](mailto:Ahmed.Aboalia2015@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+Let me know if you need any help.
+Are you looking for freelance work? Send me an [email](mailto:Ahmed.Aboalia2015@gmail.com) :)
   
 ####
   <!-- <a href="https://Facebook.com/Eng.Abo3lia" target="_blank"><img src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/fb.png" alt="Facebook" width="30"></a>
@@ -54,7 +53,7 @@ B1SDK    33 hrs          ██████████████████�
 <a href="https://engabo3lia.github.io/" target="_blank"><img src="https://github.com/EngAbo3lia/EngAbo3lia/blob/main/www.png" alt="Website" width="30"></a>
 -->
   
-
+<!--
 ## My Statistics
 
 <br/>

@@ -69,24 +69,28 @@ PHP      30 mins         ░░░░░░░░░░░░░░░░░░�
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EngAbo3lia&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngAbo3lia&theme=radical" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngAbo3lia&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
-## 📈 GitHub Profile
+### 🎯 Contribution Statistics
+![2025](https://img.shields.io/badge/2025-708%20contributions-brightgreen?style=for-the-badge&logo=github)
+![2024](https://img.shields.io/badge/2024-131%20contributions-blue?style=for-the-badge&logo=github)
+![2023](https://img.shields.io/badge/2023-526%20contributions-orange?style=for-the-badge&logo=github)
+![2022](https://img.shields.io/badge/2022-381%20contributions-yellow?style=for-the-badge&logo=github)
+![2021](https://img.shields.io/badge/2021-280%20contributions-red?style=for-the-badge&logo=github)
+
+### 📈 Total Activity
+![Total Contributions](https://img.shields.io/badge/Total-2,026%20contributions-purple?style=for-the-badge&logo=github)
+![Current Year](https://img.shields.io/badge/2025%20Goal-1000%20contributions-lightblue?style=for-the-badge&logo=github)
+
+
+
+### 📈 GitHub Profile
 
 ![Repositories](https://img.shields.io/badge/Repositories-365-blue?style=for-the-badge&logo=github)
 ![Followers](https://img.shields.io/badge/Followers-9-green?style=for-the-badge&logo=github)
 ![Following](https://img.shields.io/badge/Following-66-orange?style=for-the-badge&logo=github)
 ![Gists](https://img.shields.io/badge/Gists-2-purple?style=for-the-badge&logo=github)
 ![Member Since](https://img.shields.io/badge/Member%20Since-October%202016-red?style=for-the-badge&logo=github)
-
----
 
 ## 🚀 Recent Projects
 
@@ -151,5 +155,5 @@ Are you looking for freelance work? Send me an [email](mailto:ahmed@aboalia.com)
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=007ACC&center=true&vCenter=true&width=1000&lines=Let%27s+connect+and+build+something+amazing!+Ready+for+freelance+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Let%27s+connect+and+build+something+amazing!+Ready+for+freelance+opportunities" alt="Typing SVG" />
 </div>

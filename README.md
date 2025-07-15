@@ -151,5 +151,5 @@ Are you looking for freelance work? Send me an [email](mailto:ahmed@aboalia.com)
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Let's+connect+and+build+something+amazing!;Ready+for+freelance+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=007ACC&center=true&vCenter=true&width=1000&lines=Let%27s+connect+and+build+something+amazing!+Ready+for+freelance+opportunities" alt="Typing SVG" />
 </div>

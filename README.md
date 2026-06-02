@@ -8,11 +8,11 @@
     <a href="https://www.buymeacoffee.com/engAbo3lia"><img align="center" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
   </p>
 </h1><br />
-<!--
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=EngAbo3lia&style=flat-square&color=blue&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
--->
+📊 **this week i spent my time on:**
+
+<!--START_SECTION:waka-->
+📊 No WakaTime data yet. Connect WakaTime and add `WAKATIME_API_KEY` as a GitHub secret to populate this.
+<!--END_SECTION:waka-->
 
 </p></h1>
 

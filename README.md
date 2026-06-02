@@ -72,23 +72,24 @@ PHP      30 mins         ░░░░░░░░░░░░░░░░░░�
 
 
 ### 🎯 Contribution Statistics
-![2025](https://img.shields.io/badge/2025-708%20contributions-brightgreen?style=for-the-badge&logo=github)
-![2024](https://img.shields.io/badge/2024-131%20contributions-blue?style=for-the-badge&logo=github)
-![2023](https://img.shields.io/badge/2023-526%20contributions-orange?style=for-the-badge&logo=github)
-![2022](https://img.shields.io/badge/2022-381%20contributions-yellow?style=for-the-badge&logo=github)
-![2021](https://img.shields.io/badge/2021-280%20contributions-red?style=for-the-badge&logo=github)
+![2026](https://img.shields.io/badge/2026-1,595%20contributions-brightgreen?style=for-the-badge&logo=github)
+![2025](https://img.shields.io/badge/2025-1,019%20contributions-blue?style=for-the-badge&logo=github)
+![2024](https://img.shields.io/badge/2024-131%20contributions-orange?style=for-the-badge&logo=github)
+![2023](https://img.shields.io/badge/2023-526%20contributions-yellow?style=for-the-badge&logo=github)
+![2022](https://img.shields.io/badge/2022-381%20contributions-red?style=for-the-badge&logo=github)
+![2021](https://img.shields.io/badge/2021-280%20contributions-purple?style=for-the-badge&logo=github)
 
 ### 📈 Total Activity
-![Total Contributions](https://img.shields.io/badge/Total-2,026%20contributions-purple?style=for-the-badge&logo=github)
-![Current Year](https://img.shields.io/badge/2025%20Goal-1000%20contributions-lightblue?style=for-the-badge&logo=github)
+![Total Contributions](https://img.shields.io/badge/Total-3,932%20contributions-purple?style=for-the-badge&logo=github)
+![Current Year](https://img.shields.io/badge/2026%20Goal-2,000%20contributions-lightblue?style=for-the-badge&logo=github)
 
 
 
 ### 📈 GitHub Profile
 
-![Repositories](https://img.shields.io/badge/Repositories-365-blue?style=for-the-badge&logo=github)
-![Followers](https://img.shields.io/badge/Followers-9-green?style=for-the-badge&logo=github)
-![Following](https://img.shields.io/badge/Following-66-orange?style=for-the-badge&logo=github)
+![Repositories](https://img.shields.io/badge/Repositories-469-blue?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Followers-6-green?style=for-the-badge&logo=github)
+![Following](https://img.shields.io/badge/Following-90-orange?style=for-the-badge&logo=github)
 ![Gists](https://img.shields.io/badge/Gists-2-purple?style=for-the-badge&logo=github)
 ![Member Since](https://img.shields.io/badge/Member%20Since-October%202016-red?style=for-the-badge&logo=github)
 

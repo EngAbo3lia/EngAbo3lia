@@ -11,45 +11,13 @@
 📊 **this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-📊 No WakaTime data yet. Connect WakaTime and add `WAKATIME_API_KEY` as a GitHub secret to populate this.
-<!--END_SECTION:waka-->
 
-</p></h1>
+```txt
+From: 26 May 2026 - To: 02 June 2026
 
-> *hi, i'm [Ahmed Aboalia](https://Ahmed.Aboalia.com/), Results-driven SAP Business One Technical Consultant with a proven track record in designing and implementing custom add-ons, Web services, and system integrations using .NET framework and SAP SDK. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.*
-
-- 🔭 Currently working as **SAP Business One Tech Lead | AI Automation Expert | Software Engineer | Add-ons & Integration Specialist | ERP Solutions Expert** at **BE ONE**
-- 🌱 Passionate about **SAP Business One**, **.NET Development**, **AI Automation**, and **System Integration**
-- 💬 Ask me about **SAP B1 Add-ons**, **C#**, **ASP.NET Core**, **API Development**, **AI Integration**
-- 📫 Reach me at: **ahmed@aboalia.com**
-- 🌍 Based in **Benha - Qalyubia, Egypt**
-- 🌐 Website: [ahmed.aboalia.com](https://ahmed.aboalia.com)
-- 💼 **LinkedIn**: [Ahmed Aboalia](https://www.linkedin.com/in/engabo3lia/) - SAP Business One Tech Lead | AI Automation Expert | Software Engineer | Add-ons & Integration Specialist | ERP Solutions Expert
-
-### Courses 
-      • CS50 - (CS50x)
-<br/>
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/EngAbo3lia/EngAbo3lia/master/code.gif?raw=true" width="500" height="320" />
-  
-<!--
-<br/>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/EngAbo3lia/EngAbo3lia/master/code.gif?raw=true" width="500" height="320" />
-
-<!--
-📊 **this week i spent my time on:**
-
-<!--START_SECTION:waka-->
-```text
-C#       30 hrs 15 mins  ████████████████████████░░   55.00 %
-SAP B1   10 hrs 30 mins  ████████░░░░░░░░░░░░░░░░░░   19.00 %
-SQL      4  hrs 20 mins  ███░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
-JavaScript 3 hrs 45 mins ██░░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-Python   2  hrs 15 mins  ██░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
-HTML     1  hr  30 mins  █░░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-CSS      1  hr           █░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Java     45 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-PHP      30 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 ### Languages and tools: 
